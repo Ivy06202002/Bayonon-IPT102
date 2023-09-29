@@ -24055,6 +24055,36 @@
       "FilePath": "c:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\Bayonon-IPT102\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Bayonon-IPT102\\Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\Bayonon-IPT102\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Bayonon-IPT102\\Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\Bayonon-IPT102\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Bayonon-IPT102\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\Bayonon-IPT102\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Bayonon-IPT102\\Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\Bayonon-IPT102\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Bayonon-IPT102\\Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\Bayonon-IPT102\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Bayonon-IPT102\\Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
     }
   ]
 }
