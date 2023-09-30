@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LXypMC+Wy39rJ+ZeofklNIqh9lw+BmEnZ+lWMMfIQtQ=",
+  "Hash": "IAU3NwBF82AK7yeMQJVz9XJ8cisJmZCq+FFdEkFr5q4=",
   "Source": "dotnetsample",
   "BasePath": "_content/dotnetsample",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "dotnetsample\\wwwroot",
       "Source": "dotnetsample",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\",
       "BasePath": "_content/dotnetsample",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\obj\\Debug\\net7.0\\scopedcss\\bundle\\dotnetsample.styles.css",
+      "Identity": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\obj\\Debug\\net7.0\\scopedcss\\bundle\\dotnetsample.styles.css",
       "SourceId": "dotnetsample",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/dotnetsample",
       "RelativePath": "dotnetsample.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\obj\\Debug\\net7.0\\scopedcss\\bundle\\dotnetsample.styles.css"
+      "OriginalItemSpec": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\obj\\Debug\\net7.0\\scopedcss\\bundle\\dotnetsample.styles.css"
     },
     {
-      "Identity": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\dotnetsample.bundle.scp.css",
+      "Identity": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\dotnetsample.bundle.scp.css",
       "SourceId": "dotnetsample",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/dotnetsample",
       "RelativePath": "dotnetsample.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\dotnetsample.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\dotnetsample.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\css\\site.css",
       "SourceId": "dotnetsample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\",
       "BasePath": "_content/dotnetsample",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\favicon.ico",
       "SourceId": "dotnetsample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\",
       "BasePath": "_content/dotnetsample",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\js\\site.js",
       "SourceId": "dotnetsample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\",
       "BasePath": "_content/dotnetsample",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "dotnetsample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\",
       "BasePath": "_content/dotnetsample",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "dotnetsample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\",
       "BasePath": "_content/dotnetsample",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "dotnetsample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\",
       "BasePath": "_content/dotnetsample",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "dotnetsample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\",
       "BasePath": "_content/dotnetsample",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "dotnetsample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\",
       "BasePath": "_content/dotnetsample",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "dotnetsample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\",
       "BasePath": "_content/dotnetsample",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "dotnetsample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\",
       "BasePath": "_content/dotnetsample",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "dotnetsample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\",
       "BasePath": "_content/dotnetsample",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "dotnetsample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\",
       "BasePath": "_content/dotnetsample",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "dotnetsample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\",
       "BasePath": "_content/dotnetsample",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "dotnetsample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\",
       "BasePath": "_content/dotnetsample",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "dotnetsample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\",
       "BasePath": "_content/dotnetsample",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "dotnetsample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\",
       "BasePath": "_content/dotnetsample",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "dotnetsample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\",
       "BasePath": "_content/dotnetsample",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "dotnetsample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\",
       "BasePath": "_content/dotnetsample",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "dotnetsample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\",
       "BasePath": "_content/dotnetsample",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "dotnetsample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\",
       "BasePath": "_content/dotnetsample",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "dotnetsample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\",
       "BasePath": "_content/dotnetsample",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "dotnetsample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\",
       "BasePath": "_content/dotnetsample",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "dotnetsample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\",
       "BasePath": "_content/dotnetsample",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "dotnetsample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\",
       "BasePath": "_content/dotnetsample",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "dotnetsample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\",
       "BasePath": "_content/dotnetsample",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "dotnetsample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\",
       "BasePath": "_content/dotnetsample",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "dotnetsample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\",
       "BasePath": "_content/dotnetsample",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "dotnetsample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\",
       "BasePath": "_content/dotnetsample",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "dotnetsample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\",
       "BasePath": "_content/dotnetsample",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "dotnetsample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\",
       "BasePath": "_content/dotnetsample",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "dotnetsample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\",
       "BasePath": "_content/dotnetsample",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "dotnetsample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\",
       "BasePath": "_content/dotnetsample",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "dotnetsample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\",
       "BasePath": "_content/dotnetsample",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "dotnetsample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\",
       "BasePath": "_content/dotnetsample",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "dotnetsample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\",
       "BasePath": "_content/dotnetsample",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "dotnetsample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\",
       "BasePath": "_content/dotnetsample",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "dotnetsample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\",
       "BasePath": "_content/dotnetsample",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "dotnetsample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\",
       "BasePath": "_content/dotnetsample",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "dotnetsample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\",
       "BasePath": "_content/dotnetsample",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "dotnetsample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\",
       "BasePath": "_content/dotnetsample",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "dotnetsample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\",
       "BasePath": "_content/dotnetsample",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "dotnetsample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\",
       "BasePath": "_content/dotnetsample",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "dotnetsample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\",
       "BasePath": "_content/dotnetsample",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "dotnetsample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\wwwroot\\",
       "BasePath": "_content/dotnetsample",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
