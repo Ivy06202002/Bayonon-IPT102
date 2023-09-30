@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\dotnetsample.csproj": {}
+    "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\dotnetsample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\dotnetsample.csproj": {
+    "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\dotnetsample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\dotnetsample.csproj",
+        "projectUniqueName": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\dotnetsample.csproj",
         "projectName": "dotnetsample",
-        "projectPath": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\dotnetsample.csproj",
+        "projectPath": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\dotnetsample.csproj",
         "packagesPath": "C:\\Users\\QCU\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\QCU\\OneDrive\\Desktop\\asdasd\\Bayonon-IPT102\\obj\\",
+        "outputPath": "C:\\Users\\QCU\\Documents\\GitHub\\Bayonon-IPT102\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\QCU\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\QCU\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
